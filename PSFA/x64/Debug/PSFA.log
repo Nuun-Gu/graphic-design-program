@@ -1,0 +1,8 @@
+﻿  PSFA.cpp
+C:\Users\86152\Desktop\计算机图形学课设\myPSFA\PSFA\PSFA.cpp(122,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\86152\Desktop\计算机图形学课设\myPSFA\PSFA\PSFA.cpp(178,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\86152\Desktop\计算机图形学课设\myPSFA\PSFA\PSFA.cpp(300,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\86152\Desktop\计算机图形学课设\myPSFA\PSFA\PSFA.cpp(312,28): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\86152\Desktop\计算机图形学课设\myPSFA\PSFA\PSFA.cpp(312,15): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+C:\Users\86152\Desktop\计算机图形学课设\myPSFA\PSFA\PSFA.cpp(322,18): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  PSFA.vcxproj -> C:\Users\86152\Desktop\计算机图形学课设\myPSFA\x64\Debug\PSFA.exe

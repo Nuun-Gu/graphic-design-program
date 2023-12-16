@@ -1,0 +1,9 @@
+﻿  PSFA.cpp
+d:\学习\计算机图形学\keshe\psfa\psfa\psfa\psfa.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\计算机图形学\keshe\psfa\psfa\psfa\psfa.cpp(57): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\计算机图形学\keshe\psfa\psfa\psfa\psfa.cpp(74): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+d:\学习\计算机图形学\keshe\psfa\psfa\psfa\psfa.cpp(126): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+d:\学习\计算机图形学\keshe\psfa\psfa\psfa\psfa.cpp(171): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\计算机图形学\keshe\psfa\psfa\psfa\psfa.cpp(175): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\计算机图形学\keshe\psfa\psfa\psfa\psfa.cpp(215): warning C4018: “<”: 有符号/无符号不匹配
+  PSFA.vcxproj -> D:\学习\计算机图形学\keshe\PSFA\PSFA\Debug\PSFA.exe
